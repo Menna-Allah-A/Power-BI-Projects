@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The U.S. States Population Dashboard is a data visualization project created using Power BI. It aims to provide insights into the population distribution across different U.S. states, categorized by census regions. This dashboard analyzes population trends over time and helps users understand demographic shifts and regional characteristics.
+The U.S. States Population Dashboard is a data visualization project created using Power BI. It aims to provide insights into the population distribution across different U.S. states, categorized by census regions. By analyzing population trends over time, this dashboard helps users understand demographic shifts and regional characteristics.
 
 - ![Screenshot 2024-09-13 025804](https://github.com/user-attachments/assets/326a6cbb-32d6-42d5-bed0-49db3fb76d61)
 
@@ -37,25 +37,25 @@ This dashboard addresses the need for a clear and concise understanding of popul
 
 ## Insights
 
-* Population Distribution: The map visualization delineates the states into their respective census regions, revealing the geographical distribution of the population.
+* Population Distribution: The map visualization clearly delineates the states into their respective census regions, revealing the geographical distribution of the population.
 
-- Regional Comparison: The bar chart shows the number of states in each census region, highlighting that the South has a significant representation compared to other regions.
+- Regional Comparison: The bar chart shows the number of states in each census region, highlighting that the South has a significant representation compared to the other areas.
 
 - Growth Trends: The line graph illustrates a steady increase in the U.S. population from 150 million in 1950 to over 300 million by 2015, indicating robust population growth over the decades.
 
 ## Visuals
 
 #### Census Region Map
-    ![Screenshot 2024-09-13 030111](https://github.com/user-attachments/assets/1790a54e-17bb-47fc-9906-e06eb4046dc9)
+![Screenshot 2024-09-13 030111](https://github.com/user-attachments/assets/1790a54e-17bb-47fc-9906-e06eb4046dc9)
 
 #### Population Table
-    ![Screenshot 2024-09-13 030138](https://github.com/user-attachments/assets/61f549a4-06a3-45cc-8648-b5ade90a2f94)
+![Screenshot 2024-09-13 030138](https://github.com/user-attachments/assets/61f549a4-06a3-45cc-8648-b5ade90a2f94)
 
 #### Bar Chart of Census Regions
-    ![Screenshot 2024-09-13 030119](https://github.com/user-attachments/assets/9405f894-68e6-4178-aa5b-68efae0569b8)
+![Screenshot 2024-09-13 030119](https://github.com/user-attachments/assets/9405f894-68e6-4178-aa5b-68efae0569b8)
 
-#### Population Growth Overtime
-    ![Screenshot 2024-09-13 030126](https://github.com/user-attachments/assets/0f76d761-8320-4e1a-8f03-4c318ba42811)
+####  Population Growth Over time
+![Screenshot 2024-09-13 030126](https://github.com/user-attachments/assets/0f76d761-8320-4e1a-8f03-4c318ba42811)
 
 
 
