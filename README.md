@@ -45,16 +45,16 @@ This dashboard addresses the need for a clear and concise understanding of popul
 
 ## Visuals
 
-* Census Region Map
+#### Census Region Map
     ![Screenshot 2024-09-13 030111](https://github.com/user-attachments/assets/1790a54e-17bb-47fc-9906-e06eb4046dc9)
 
--  Population Table
+#### Population Table
     ![Screenshot 2024-09-13 030138](https://github.com/user-attachments/assets/61f549a4-06a3-45cc-8648-b5ade90a2f94)
 
-- Bar Chart of Census Regions
+#### Bar Chart of Census Regions
     ![Screenshot 2024-09-13 030119](https://github.com/user-attachments/assets/9405f894-68e6-4178-aa5b-68efae0569b8)
 
-- Population Growth Overtime
+#### Population Growth Overtime
     ![Screenshot 2024-09-13 030126](https://github.com/user-attachments/assets/0f76d761-8320-4e1a-8f03-4c318ba42811)
 
 
